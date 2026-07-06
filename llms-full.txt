@@ -1,0 +1,42 @@
+# Geotechnique — Lille
+
+> Geotechnical engineering services in Lille, France.
+
+## Services
+- [Amelioration Sols](https://lille.geotechnique.biz/amelioration-sols/)
+- [Ancrages](https://lille.geotechnique.biz/ancrages/)
+- [Cbr Routier](https://lille.geotechnique.biz/cbr-routier/)
+- [Chaussee Rigide](https://lille.geotechnique.biz/chaussee-rigide/)
+- [Chaussee Souple](https://lille.geotechnique.biz/chaussee-souple/)
+- [Densite Cone Sable](https://lille.geotechnique.biz/densite-cone-sable/)
+- [Excavations](https://lille.geotechnique.biz/excavations/)
+- [Excavations Profondes](https://lille.geotechnique.biz/excavations-profondes/)
+- [Fondations](https://lille.geotechnique.biz/fondations/)
+- [Geophysique](https://lille.geotechnique.biz/geophysique/)
+- [Geotechnique Routiere](https://lille.geotechnique.biz/geotechnique-routiere/)
+- [Granulometrie](https://lille.geotechnique.biz/granulometrie/)
+- [Injections](https://lille.geotechnique.biz/injections/)
+- [Investigation](https://lille.geotechnique.biz/investigation/)
+- [Isolation Sismique](https://lille.geotechnique.biz/isolation-sismique/)
+- [Labo In Situ](https://lille.geotechnique.biz/labo-in-situ/)
+- [Laboratoire](https://lille.geotechnique.biz/laboratoire/)
+- [Limites Atterberg](https://lille.geotechnique.biz/limites-atterberg/)
+- [Liquefaction](https://lille.geotechnique.biz/liquefaction/)
+- [Microzonage Sismique](https://lille.geotechnique.biz/microzonage-sismique/)
+- [Permeabilite In Situ](https://lille.geotechnique.biz/permeabilite-in-situ/)
+- [Pieux](https://lille.geotechnique.biz/pieux/)
+- [Puits Inspection](https://lille.geotechnique.biz/puits-inspection/)
+- [Radiers](https://lille.geotechnique.biz/radiers/)
+- [Refraction Sismique](https://lille.geotechnique.biz/refraction-sismique/)
+- [Resistivite](https://lille.geotechnique.biz/resistivite/)
+- [Semelles](https://lille.geotechnique.biz/semelles/)
+- [Sismique](https://lille.geotechnique.biz/sismique/)
+- [Talus](https://lille.geotechnique.biz/talus/)
+- [Tunnels Sol Mou](https://lille.geotechnique.biz/tunnels-sol-mou/)
+
+## Contact
+- Website: https://lille.geotechnique.biz/
+
+## About
+This site provides geotechnical engineering services in Lille, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
